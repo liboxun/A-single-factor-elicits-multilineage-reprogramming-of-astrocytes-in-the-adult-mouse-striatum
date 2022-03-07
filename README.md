@@ -15,3 +15,5 @@ Code for running pySCENIC (Fig. 5G) is in `/pySCENIC`.
 Code for comparing DLX2-induced reprogramming and adult neurogenesis (Fig. S19) is in `/pySCENIC`. 
 
 Everything else is in `/Misc`. 
+
+For any questions or problems, open an issue or contact the author at boxun.li@duke.edu
